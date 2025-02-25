@@ -13,8 +13,8 @@
 
 ### 1. Клонирование репозитория
 ```sh
-git clone <репозиторий>
-cd <папка_проекта>
+git clone git@github.com:unchainedraggedy/store-class.git
+cd store-class
 ```
 
 ### 2. Установка зависимостей
