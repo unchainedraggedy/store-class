@@ -1,4 +1,3 @@
-import React from 'react';
 import ShopItemClass from './components/ShopItemFunc';
 import './App.css'
 
